@@ -10,5 +10,5 @@ This repository contains the basic information of GitHub users in Sydney whoever
 
 ## Methods used
 
-- Used Github API by the using the GitHub CLI.
-- Disclaimer: The data was collected on 31st of October, 2024. So if any changes happened to these information, that might not be contained here.
+- Used Github API with personal accesss token to scrape the data using the requests library of Python.
+- Disclaimer: The data was collected on 31st of October, 2024. So if any changes happened to these information after this time, that might not be contained here.
